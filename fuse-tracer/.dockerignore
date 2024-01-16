@@ -1,0 +1,9 @@
+*
+
+!bpf.c
+!bpf.go
+!go.mod
+!go.sum
+!main.go
+!opcodes.go
+!vmlinux.h

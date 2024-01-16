@@ -1,0 +1,2 @@
+build/fuse_tracer
+fuse_tracer_bpfel_x86.o
